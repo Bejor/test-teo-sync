@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/test-teo-sync-site/:/",
+    "/content/test-teo-sync-site/configuration:/.helix/config.json"
   ]
 }
